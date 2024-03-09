@@ -6,7 +6,7 @@ ls /blah || date # 2nd will be executed
 ls -1 > file1 # store the results in file1 --> if error occure the content would be 0
 cat > file # input will be taken from keyword the following 
 cat >> file1 # append 
-you can come out using ctrl+D 
+you can come out using ctrl+D  
 
 date >> file1 # append to the file if exists 
 date >> file1; wc -l file1 >> file1
