@@ -1,0 +1,5 @@
+line-2 welcome to line editor
+line-3 ed is something 
+line-4 yooooo
+new line 
+
