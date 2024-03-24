@@ -2,6 +2,7 @@
 BEGIN {
     print "BEGIN action is processed";
 }
+# will be executed 
 {
     print "DEFAULT action is processed"; 
 }
